@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20c34045.css",
+    "main.js": "/static/js/main.dc4a6c7e.js",
+    "static/js/787.b1ffab58.chunk.js": "/static/js/787.b1ffab58.chunk.js",
+    "static/media/tick.gif": "/static/media/tick.11b766ae7a9c17b4f937.gif",
+    "static/media/we-tracking-logo.png": "/static/media/we-tracking-logo.b4e74f1744441ce649a1.png",
+    "index.html": "/index.html",
+    "main.20c34045.css.map": "/static/css/main.20c34045.css.map",
+    "main.dc4a6c7e.js.map": "/static/js/main.dc4a6c7e.js.map",
+    "787.b1ffab58.chunk.js.map": "/static/js/787.b1ffab58.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20c34045.css",
+    "static/js/main.dc4a6c7e.js"
+  ]
+}
